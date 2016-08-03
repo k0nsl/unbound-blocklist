@@ -1,4 +1,4 @@
-## block malicious sites at DNS level with [unbound](http://www.unbound.net/)!##
+## Block malicious sites at DNS level with [unbound](http://www.unbound.net/)!##
 This repository is maintained by [k0nsl](https://k0nsl.org/blog/) ([i.am@k0nsl.org](mailto:i.am@k0nsl.org))
 
 **Instructions:**
