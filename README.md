@@ -1,5 +1,5 @@
 ## Block malicious sites at DNS level with [unbound](http://www.unbound.net/)!
-This repository is maintained by [k0nsl](https://k0nsl.org/blog/) ([i.am@k0nsl.org](mailto:i.am@k0nsl.org)).
+This repository is maintained by [k0nsl](https://k0nsl.org/blog/) ([i.am@k0nsl.org](mailto:i.am@k0nsl.org)) and is curated from four different sources apart from my own manual insertions.
 
 * Instructions
     1. curl/wget/paste [this file](https://raw.githubusercontent.com/k0nsl/unbound-blocklist/master/blocks.conf) as `blocks.conf` and place it in
